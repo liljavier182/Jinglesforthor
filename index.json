@@ -1,9 +1,9 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Jinglesforthor",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Vagrant Story",
+      "file": "Vagrant Story.mp3"
     },
     {
       "game": "Example Game 2",
